@@ -39,3 +39,11 @@ src/
 ├── PhilosophersProblemController.java
 ├── PhilosophersProblem.fxml
 └── pictures/
+
+
+## Running the Project
+
+1. Clone or download the repository.
+2. Import the project into Eclipse.
+3. Configure JavaFX in the project's build path.
+4. Run `PhilosophersProblem.java`.
