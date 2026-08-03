@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="501.0" prefWidth="612.0" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="PhilosophersProblemController">
+   <children>
+      <ImageView fx:id="stick1" fitHeight="86.0" fitWidth="51.0" layoutX="114.0" layoutY="281.0" pickOnBounds="true" preserveRatio="true" rotate="-87.5">
+         <image>
+            <Image url="@pictures/chopstick.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="stick3" fitHeight="86.0" fitWidth="51.0" layoutX="435.0" layoutY="281.0" pickOnBounds="true" preserveRatio="true" rotate="135.7">
+         <image>
+            <Image url="@pictures/chopstick.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="stick4" fitHeight="86.0" fitWidth="51.0" layoutX="382.0" layoutY="80.0" pickOnBounds="true" preserveRatio="true" rotate="72.6">
+         <image>
+            <Image url="@pictures/chopstick.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="stick0" fitHeight="86.0" fitWidth="51.0" layoutX="167.0" layoutY="80.0" pickOnBounds="true" preserveRatio="true" rotate="-12.7">
+         <image>
+            <Image url="@pictures/chopstick.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="293.0" fitWidth="253.0" layoutX="168.0" layoutY="133.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@pictures/table_with_rice.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="stick2" fitHeight="86.0" fitWidth="51.0" layoutX="269.0" layoutY="386.0" pickOnBounds="true" preserveRatio="true" rotate="-150.3">
+         <image>
+            <Image url="@pictures/chopstick.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="phil0" fitHeight="105.0" fitWidth="106.0" layoutX="242.0" layoutY="41.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@pictures/idle_straight.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="phil3" fitHeight="105.0" fitWidth="106.0" layoutX="342.0" layoutY="326.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@pictures/idle_left.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="phil4" fitHeight="105.0" fitWidth="106.0" layoutX="408.0" layoutY="179.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@pictures/idle_left.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="phil1" fitHeight="106.0" fitWidth="105.0" layoutX="87.0" layoutY="171.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@pictures/idle_right.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="phil2" fitHeight="106.0" fitWidth="105.0" layoutX="140.0" layoutY="326.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@pictures/idle_right.png" />
+         </image>
+      </ImageView>
+   </children>
+</AnchorPane>
