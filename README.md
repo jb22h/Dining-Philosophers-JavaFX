@@ -47,3 +47,8 @@ src/
 2. Import the project into Eclipse.
 3. Configure JavaFX in the project's build path.
 4. Run `PhilosophersProblem.java`.
+
+
+## Screenshot
+
+![Dining Philosophers application](screenshot.png)
