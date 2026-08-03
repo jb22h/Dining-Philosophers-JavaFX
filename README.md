@@ -39,6 +39,7 @@ src/
 ├── PhilosophersProblemController.java
 ├── PhilosophersProblem.fxml
 └── pictures/
+```
 
 
 ## Running the Project
